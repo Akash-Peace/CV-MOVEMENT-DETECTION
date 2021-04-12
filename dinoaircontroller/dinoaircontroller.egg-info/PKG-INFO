@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: dinoaircontroller
+Version: 0.0.1
+Summary: Air control the key functions of chrome's dino game with a hand movement.
+Home-page: https://github.com/Akash-Peace
+Author: Akash.A
+Author-email: akashcse2000@gmail.com
+License: MIT
+Description: ## dinoaircontroller
+        
+        dinoaircontroller is the air controller used to control the key functions of chrome's dino game with a hand movement.
+        
+        Game link: chrome://dino/
+        
+        
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
