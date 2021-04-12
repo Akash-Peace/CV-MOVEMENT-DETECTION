@@ -1,16 +1,16 @@
 <!-- PROJECT LOGO -->
 <p align="center">
-  <img src="https://github.com/Akash-Peace/KIVY-PLYER-ANDROIDAPP/blob/main/images/disco_icon.png" alt="Logo" width="150" height="150">
+  <img src="https://github.com/Akash-Peace/CV-MOVEMENT-DETECTION/blob/main/screenshot/DAC_logo.png" alt="Logo" width="150" height="150">
   <h3 align="center">DINO AIR CONTROLLER</h3>
   <p align="center">
     <a href="https://docs.python.org/3/library/intro.html"><strong>A Python Library</strong></a>
     <br />
     <br />
-    <a href="#installation">Installation</a>Installation</a>
+    <a href="#installation">Installation</a>
     ·
-    <a href="https://github.com/Akash-Peace/KIVY-PLYER-ANDROIDAPP/issues">Report Bug</a>
+    <a href="https://github.com/Akash-Peace/CV-MOVEMENT-DETECTION/issues">Report Bug</a>
     ·
-    <a href="https://github.com/Akash-Peace/KIVY-PLYER-ANDROIDAPP/issues">Request Feature</a>
+    <a href="https://github.com/Akash-Peace/CV-MOVEMENT-DETECTION/issues">Request Feature</a>
   </p>
 </p>
 
@@ -38,11 +38,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Dino Air Controller project objective is to make a virtual controller of two key functions which can be controllable with hand movements. game by manipulating the pixels with [OpenCV](https://opencv.org/).
- Hand movement recognition and key mapping is done with [OpenCV](https://opencv.org/) and [PyAutoGUI](https://pyautogui.readthedocs.io/en/latest/).
- As mentioned, I decided to present this project as a python library, particularly using the [PyPI](https://pypi.org/).
- [MIT](https://github.com/Akash-Peace/KIVY-PLYER-ANDROIDAPP/blob/main/LICENSE) licenses this project and it is free to use, fork, modify and distribute.
- If you like this project, give a _star_ and follow me.
+Dino Air Controller project objective is to make a virtual controller of two key functions which can be controllable with hand movements. game by manipulating the pixels with [OpenCV](https://opencv.org/). Hand movement recognition and key mapping is done with [OpenCV](https://opencv.org/) and [PyAutoGUI](https://pyautogui.readthedocs.io/en/latest/). As mentioned, I decided to present this project as a python library, particularly using the [PyPI](https://pypi.org/). [MIT](https://github.com/Akash-Peace/CV-MOVEMENT-DETECTION/blob/main/LICENSE) licenses this project and it is free to use, fork, modify and distribute. If you like this project, give a _star_ and follow me.
 
 
 ## Built With
@@ -65,7 +61,7 @@ Dino Air Controller project objective is to make a virtual controller of two key
 ## Installation
 
 Step 1: Copy the text [**pip install dinoaircontroller**](https://pypi.org/project/dinoaircontroller/).\
-Step 2: Paste it in terminal/cmd and press enter.
+Step 2: Paste it in terminal/cmd and press enter.\
 Step 3: Open Chrome's [dino game](chrome://dino/) and play.
 
 
@@ -77,13 +73,13 @@ Usage of this project is to control the chrome's dino game virtually by hand mov
 
 ## Screenshots
 
-View [Screenshots](https://github.com/Akash-Peace/KIVY-PLYER-ANDROIDAPP/tree/main/Screenshots) here.
+View [Screenshots](https://github.com/Akash-Peace/CV-MOVEMENT-DETECTION/tree/main/screenshot) here.
 
 
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See [LICENSE](https://github.com/Akash-Peace/KIVY-PLYER-ANDROIDAPP/blob/main/LICENSE) for more information.
+Distributed under the MIT License. See [LICENSE](https://github.com/Akash-Peace/CV-MOVEMENT-DETECTION/blob/main/LICENSE) for more information.
 
 
 ## My System Spec
